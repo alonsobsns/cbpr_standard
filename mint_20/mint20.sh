@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION='2.00'
-FILEDATE='12-05-2021 17:27'
+FILEDATE='27-02-2023'
 
 #mensagem intro
 echo "Script de Configuração Geral $VERSION Instador criado em $FILEDATE"
@@ -22,7 +22,7 @@ fi
 
 #mudança de nomes nos computadores
 echo "Digite o nome do computador de acordo com a padronização estabelecida."
-echo "Ex: 00CWB03D04 - Mais informações em https://wiki.gga.celepar.parana/wiki/Categoria:CCB"
+echo "Ex: xxxxxxxxx - Mais informações em https://xxxxxxxx"
 
 #pergunta nome do pc
 echo -n 'Informe o Nome do PC: '
